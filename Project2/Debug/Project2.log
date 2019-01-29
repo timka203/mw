@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\пашакуловт.local\source\repos\project2\project2\source.cpp(10): warning C4101: r: неиспользованная локальная переменная
+c:\users\пашакуловт.local\source\repos\project2\project2\source.cpp(151): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\пашакуловт.local\source\repos\project2\project2\source.cpp(234): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Project2.vcxproj -> c:\Users\пашакуловт.local\source\repos\Project2\Debug\Project2.exe
